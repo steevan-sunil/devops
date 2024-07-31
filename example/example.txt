@@ -1,0 +1,22 @@
+pwd
+mkdir
+ls -l
+ls -a
+ls --help
+ls -lt
+ls -lrt
+cd
+cd dir
+touch
+cat
+vi
+nano
+cp source destination
+chmod
+chown
+mv source destination
+find -type [File or dir]
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     2226    1919    2226        800  pty0      197609 18:41:06 /usr/bin/ps
+     1918       1    1918      11220  ?         197609 16:31:04 /usr/bin/mintty
+     1919    1918    1919       7812  pty0      197609 16:31:05 /usr/bin/bash
